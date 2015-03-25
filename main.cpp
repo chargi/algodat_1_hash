@@ -20,7 +20,7 @@
 using namespace std;
 
 int main() {
-
+    cout << "checked out" << endl;
     return 0;
 }
 
