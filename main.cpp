@@ -21,6 +21,7 @@ using namespace std;
 
 int main() {
     cout << "checked out" << endl;
+    cout << "checked out TEST2" << endl;
     return 0;
 }
 
